@@ -1,4 +1,17 @@
-# Pert-Analysis
+### Pert-Analysis
 Console application to perform Pert analysis for project times.
 
-Feel free to add more details about the usage, installation, and any other relevant information.
+##### Installation
+Clone the repository:
+
+```git clone https://github.com/jwill1796/Pert-Analysis.git```
+
+##### Usage
+
+Run the main Python file:
+```python main.py```
+
+##### Contributing
+
+
+This project is free for anyone to take and extend. Contributions are welcome!
